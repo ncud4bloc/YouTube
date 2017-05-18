@@ -211,3 +211,66 @@ h4 {
 	border: 1px solid black;
 	float: left;
 }
+
+#viewcount {
+	font-size: 24px;
+	font-weight: lighter;
+	width: 180px;
+	height: 28px;
+	padding: 4px 2px 2px 4px;
+	margin-right: 20px;
+	margin-top: 30px;
+	/*border: 1px solid black;*/
+	float: right;
+}
+
+#gap {
+	width: 95%;
+	background-color: #e0e0eb;
+	border: 2px solid #e0e0eb;
+}
+
+#add_icon, #share_icon, #dots_icon {
+	width: 5%;
+	margin-left: 5px;
+	margin-top: 10px;
+	float: left;
+}
+
+#add_txt, #share_txt, #dots_txt {
+	color: #999999;
+	float: left;
+	margin-left: 5px;
+	margin-top: 20px;
+	margin-right: 30px;
+}
+
+#thumbs_up_txt {
+	color: #999999;
+	float: left;
+	margin-left: 5px;
+	margin-top: 20px;
+	margin-right: 5px;
+}
+
+#thumbs_up_icon {
+	width: 5%;
+	margin-left: 95px;
+	margin-top: 10px;
+	float: left;
+}
+
+#thumbs_down_txt {
+	color: #999999;
+	float: left;
+	margin-left: 5px;
+	margin-top: 20px;
+	margin-right: 5px;
+}
+
+#thumbs_down_icon {
+	width: 5%;
+	margin-left: 45px;
+	margin-top: 10px;
+	float: left;
+}
