@@ -1,3 +1,3 @@
-# YouTube
-My OdinProject YouTube Clone Page.
-Main video works, everything else are just thumbnail images.
+Odin Project work: Embedded video using iframe
+
+YouTube Clone Page.  Main video works, everything else are just thumbnail images.
